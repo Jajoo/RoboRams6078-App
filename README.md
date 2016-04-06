@@ -1,14 +1,11 @@
 # RoboRams6078-App
 So this is kind of ambitous (I know barebones java and can barley navigate around in Andriod Studio) but I'm going to try anyway 4/6/16
 
-#What this app will do
+##What this app will do
 1. Scouting (main objective)
-
-  A) Form to enter data
-  
-      I) Make the xml Thing to do this
-    
-      II) Have Java export the data to rapsberry pi
+  1. Form to enter data
+    *Make the xml Thing to do this
+    *Have Java export the data to rapsberry pi
     
     
   B) Back end too save data (might have to learn sql for this, use python? Server? Raspberry Pi?)
