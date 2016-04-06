@@ -4,8 +4,8 @@ So this is kind of ambitous (I know barebones java and can barley navigate aroun
 ## What this app will do
   1. Scouting (main objective)
     1. Form to enter data
-      *Make the xml Thing to do this
-      *Have Java export the data to rapsberry pi
+      * Make the xml Thing to do this
+      * Have Java export the data to rapsberry pi
 
     
     
