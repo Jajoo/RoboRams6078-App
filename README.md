@@ -7,30 +7,22 @@ So this is kind of ambitous (I know barebones java and can barley navigate aroun
       * Make the xml Thing to do this
       * Have Java export the data to rapsberry pi
 
-    
-    
-  B) Back end too save data (might have to learn sql for this, use python? Server? Raspberry Pi?)
-  
-    I) Somehow have Java export the data to a python server on my raspberry pi
-    
-    II) Somehow give Java the data when it calls for it
-    
-    III) Security? Will someone even try to steal our data? (Probably would just cause they can lol)
-    
-    
-2. Schedule for match times
+  2. Back end too save data (might have to learn sql for this, use python? Server? Raspberry Pi?)
+    1) Somehow have Java export the data to a python server on my raspberry pi
+      * Probably and API, don't reinvent the wheel
+    2) Somehow give Java the data when it calls for it
+      * Same as before, don't reinvent the wheel
+    3) Security? Will someone even try to steal our data? (Probably would just cause they can lol)
+      * Become a 1337 hacker, problem solved
 
-  A)Another xml form for this
-  
-  B) Have Java export the data to the raspberry pi
-  
-  C) Hava pi server give data when app calls for it
+2. Schedule for match times
+  1. Another xml form for this
+  2. Have Java export the data to the raspberry pi
+  3. Hava pi server give data when app calls for it
   
 3. Games (probably not going to happen)
-
-  A) Flappy Bird but without bird it's the robot
-  
-  B) Snake but with something robot related
+  1. Flappy Bird but without bird it's the robot
+  2. Snake but with something robot related
   
   
 
