@@ -23,6 +23,6 @@ So this is kind of ambitous (I know barebones java and can barley navigate aroun
   4. Games (probably not going to happen)
     1. Flappy Bird but without bird it's the robot
     2. Snake but with something robot related
-  
-  
 
+## Where am I at right now?
+Haven't even started yet 4/6/16
