@@ -3,6 +3,7 @@ So this is kind of ambitous (I know barebones java and can barley navigate aroun
 
 #What this app will do
 1. Scouting (main objective)
+
   A) Form to enter data
     I) Make the xml Thing to do this
     II) Have Java export the data to rapsberry pi
