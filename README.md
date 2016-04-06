@@ -7,12 +7,12 @@ So this is kind of ambitous (I know barebones java and can barley navigate aroun
       * Make the xml Thing to do this
       * Have Java export the data to rapsberry pi
 
-  2. Back end too save data (might have to learn sql for this, use python? Server? Raspberry Pi?)
-    1) Somehow have Java export the data to a python server on my raspberry pi
+    2. Back end to save data (might have to learn sql for this, use python? Server? Raspberry Pi?)
+      * Somehow have Java export the data to a python server on my raspberry pi
       * Probably and API, don't reinvent the wheel
-    2) Somehow give Java the data when it calls for it
+    3. Somehow give Java the data when it calls for it
       * Same as before, don't reinvent the wheel
-    3) Security? Will someone even try to steal our data? (Probably would just cause they can lol)
+    4. Security? Will someone even try to steal our data? (Probably would just cause they can lol)
       * Become a 1337 hacker, problem solved
 
 2. Schedule for match times
