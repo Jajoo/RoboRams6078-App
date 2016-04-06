@@ -15,14 +15,14 @@ So this is kind of ambitous (I know barebones java and can barley navigate aroun
     4. Security? Will someone even try to steal our data? (Probably would just cause they can lol)
       * Become a 1337 hacker, problem solved
 
-3. Schedule for match times
-  1. Another xml form for this
-  2. Have Java export the data to the raspberry pi
-  3. Hava pi server give data when app calls for it
+  3. Schedule for match times
+    1. Another xml form for this
+    2. Have Java export the data to the raspberry pi
+    3. Hava pi server give data when app calls for it
   
-4. Games (probably not going to happen)
-  1. Flappy Bird but without bird it's the robot
-  2. Snake but with something robot related
+  4. Games (probably not going to happen)
+    1. Flappy Bird but without bird it's the robot
+    2. Snake but with something robot related
   
   
 
