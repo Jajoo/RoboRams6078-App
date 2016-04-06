@@ -6,9 +6,9 @@ So this is kind of ambitous (I know barebones java and can barley navigate aroun
 
   A) Form to enter data
   
-    I) Make the xml Thing to do this
+      I) Make the xml Thing to do this
     
-    II) Have Java export the data to rapsberry pi
+      II) Have Java export the data to rapsberry pi
     
     
   B) Back end too save data (might have to learn sql for this, use python? Server? Raspberry Pi?)
