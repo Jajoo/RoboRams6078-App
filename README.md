@@ -11,16 +11,16 @@ So this is kind of ambitous (I know barebones java and can barley navigate aroun
       * Somehow have Java export the data to a python server on my raspberry pi
       * Probably and API, don't reinvent the wheel
     3. Somehow give Java the data when it calls for it
-      * Same as before, don't reinvent the wheel
+      * Same as before
     4. Security? Will someone even try to steal our data? (Probably would just cause they can lol)
       * Become a 1337 hacker, problem solved
 
-2. Schedule for match times
+3. Schedule for match times
   1. Another xml form for this
   2. Have Java export the data to the raspberry pi
   3. Hava pi server give data when app calls for it
   
-3. Games (probably not going to happen)
+4. Games (probably not going to happen)
   1. Flappy Bird but without bird it's the robot
   2. Snake but with something robot related
   
