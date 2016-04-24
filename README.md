@@ -31,9 +31,12 @@ So this is kind of ambitous (I know barebones java and can barley navigate aroun
 
 ## Where am I at right now?
 Haven't even started yet 4/6/16
+
 Got the button working to switch between XML forms 4/24/16
 
 ##Problems
 If I'm planning to try not to use internet how will I get all the apps sync'd up with match times and such, maybe have app devices plugged up and sync'd before matches
 
 Need to stop procastinating and playing video games
+
+Trying to get Android Studio working with GitHub so I don't have to learn git, might have to learn git 
