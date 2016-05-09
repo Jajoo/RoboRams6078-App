@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RoboRApp.iml" filepath="$PROJECT_DIR$/RoboRApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoboRams6078-App.iml" filepath="$PROJECT_DIR$/RoboRams6078-App.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

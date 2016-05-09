@@ -3,20 +3,35 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="83dp"
-        android:layout_height="wrap_content"
-        android:text="Test"
-        android:id="@+id/textView"
-        android:textIsSelectable="false"
-        android:textSize="30dp"
-        android:layout_gravity="center_horizontal" />
-
     <CheckBox
+        android:id="@+id/chkIos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="click here fucbois"
-        android:id="@+id/checkBox"
-        android:layout_gravity="center_horizontal"
-        android:checked="false" />
+        android:text="@string/chk_ios" />
+
+    <CheckBox
+        android:id="@+id/chkAndroid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_android" />
+
+    <CheckBox
+        android:id="@+id/chkWindows"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_windows" />
+
+    <Button
+        android:id="@+id/btnDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_display" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:layout_gravity="center_horizontal" />
+
+
 </LinearLayout>
