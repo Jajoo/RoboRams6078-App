@@ -36,7 +36,7 @@ Got the button working to switch between XML forms 4/24/16
 
 Checkboxes yo
 
-Working on impleting something like zxing, a barcode maker so I don't have to fiddl with servers
+Working on impleting something like zxing, a barcode maker so I don't have to fiddl with servers 5/20
 
 
 ##Problems
