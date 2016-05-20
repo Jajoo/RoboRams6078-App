@@ -36,6 +36,8 @@ Got the button working to switch between XML forms 4/24/16
 
 Checkboxes yo
 
+Working on impleting something like zxing, a barcode maker so I don't have to fiddl with servers
+
 
 ##Problems
 If I'm planning to try not to use internet how will I get all the apps sync'd up with match times and such, maybe have app devices plugged up and sync'd before matches
