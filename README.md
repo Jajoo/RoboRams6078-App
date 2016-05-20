@@ -36,7 +36,7 @@ Got the button working to switch between XML forms 4/24/16
 
 Checkboxes yo
 
-Working on impleting something like zxing, a barcode maker so I don't have to fiddl with servers 5/20
+Working on impleting something like zxing (https://github.com/zxing/zxing), a barcode maker so I don't have to fiddl with servers 5/20
 
 
 ##Problems
@@ -45,3 +45,5 @@ If I'm planning to try not to use internet how will I get all the apps sync'd up
 Need to stop procastinating and playing video games
 
 Trying to get Android Studio working with GitHub so I don't have to learn git, might have to learn git 
+
+Have had like no time, plannig on working Sunday 5/22/16
